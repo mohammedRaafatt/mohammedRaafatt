@@ -95,3 +95,7 @@ I combine **front-end engineering** with **software testing** to deliver systems
 <p align="center">
   🌟 *Thanks for visiting my profile — let’s build something amazing together!* 🌟
 </p>
+
+---
+
+![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
