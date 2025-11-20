@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=700&color=3FA9F5&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Mohammed+Raafat!;Software+Developer+%7C+Frontend+%2B+QA;Building+Clean+Interfaces+%26+Reliable+Systems;Clean+Code+%7C+Testing+%7C+Best+Practices" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2800&pause=700&color=3FA9F5&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Mohammed+Raafat!;Software+Developer+%26+Tester;%E2%9C%A8Pixel-perfect+UIs%2C+bug-free%E2%9C%A8" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -86,14 +86,29 @@ I combine **front-end engineering** with **software testing** to deliver systems
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:m.raafatgaber@gmail.com"><img src="https://img.shields.io/badge/Email-m.raafatgaber%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mohammed-raafat-swe"><img src="https://img.shields.io/badge/LinkedIn-Mohammed_Raafat-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
+  <a href="mailto:m.raafatgaber@gmail.com">
+    <img src="https://img.shields.io/badge/Email-m.raafatgaber@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-raafat-swe/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammed Raafat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://github.com/mohammedRaafatt">
+    <img src="https://img.shields.io/badge/GitHub-mohammedRaafatt-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+  <a href="https://www.instagram.com/muhammad_raafat_/">
+    <img src="https://img.shields.io/badge/Instagram-muhammad_raafat_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100004131767214">
+    <img src="https://img.shields.io/badge/Facebook-Mohammed Raafat-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
+  </a>
+  
 </p>
 
 ---
 
 <p align="center">
-  🌟 *Thanks for visiting my profile — let’s build something amazing together!* 🌟
+  🌟 *Thanks for visiting my project — let’s build something amazing together!* 🌟
 </p>
 
 ---
