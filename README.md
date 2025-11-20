@@ -85,9 +85,9 @@ I combine **front-end engineering** with **software testing** to deliver systems
 
 ## 🏆 Certificates
 
-### eTax Internship — Software Testing Certificate
+### eTax Internship - Software Testing Certificate
 
-[![eTax Internship - Certificate](https://img.shields.io/badge/ISTQB-Foundation-blue?style=for-the-badge)](https://drive.google.com/file/d/1CRR0O0TtOo4MGHq8RIhaTdiSwilGlAQ3/view?usp=drive_link)
+[![eTax Internship — Software Testing Certificate](https://img.shields.io/badge/eTax%20Internship-Software%20Testing%20Certificate-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1CRR0O0TtOo4MGHq8RIhaTdiSwilGlAQ3/view?usp=drive_link)
 
 ---
 
