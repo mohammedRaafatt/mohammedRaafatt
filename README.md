@@ -83,6 +83,32 @@ I combine **front-end engineering** with **software testing** to deliver systems
 
 ---
 
+## 🏆 Certificates
+
+### eTax Internship — Software Testing Certificate
+
+[![eTax Internship - Certificate](https://img.shields.io/badge/ISTQB-Foundation-blue?style=for-the-badge)](https://drive.google.com/file/d/1CRR0O0TtOo4MGHq8RIhaTdiSwilGlAQ3/view?usp=drive_link)
+
+---
+
+### Career 180 Company x LearnIt Academy - Software Testing Bootcamp Certificate
+
+[![Career180 / LearnIt — Software Testing Bootcamp](https://img.shields.io/badge/Career180%2FLearnIt-Software%20Testing%20Bootcamp-blueviolet?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1d-p4pJLG19tYm_9rbBVGVdyjy-pwwRaC/view?usp=drive_link)
+
+---
+
+### Sprints x Microsoft Summer Camp - AI and Machine Learning Certificate
+
+[![Sprints × Microsoft — AI & ML Certificate](https://img.shields.io/badge/Sprints%2FMicrosoft-AI%20%26%20ML-2ea44f?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1nI5uGMzyaRmfZIPmIuty1Ma-YG7jx-WQ/view?usp=drive_link)
+
+---
+
+### Information Technology Industry Development Agency (ITIDA) Gigs - Freelancing Program Certificate
+
+[![ITIDA Gigs — Freelancing Program](https://img.shields.io/badge/ITIDA-Gigs%20Freelancing-orange?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1i1elnG8T6vx8dA3Ixlz6K27ffeukdHvB/view?usp=drive_link)
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
