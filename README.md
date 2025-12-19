@@ -134,7 +134,7 @@ I combine **front-end engineering** with **software testing** to deliver systems
 ---
 
 <p align="center">
-  🌟 *Thanks for visiting my project — let’s build something amazing together!* 🌟
+  🌟 *Thanks for visiting my profile — let’s build something amazing together!* 🌟
 </p>
 
 ---
